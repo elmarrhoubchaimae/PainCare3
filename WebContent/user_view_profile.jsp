@@ -177,7 +177,7 @@
                     <div style="font-weight: bold; font-size: 20px; padding: 10px;">Name: ${userProfile.name}</div>
                 </form>
                 <form class=" p-2" style="margin-top: 20px; background-color: #f8f5f5;border-radius: 5px ; border:1px solid rgb(158, 157, 157)!important; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);">
-                    <div style="font-weight: bold; font-size: 20px; padding: 10px;">Email: ${userProfile.email}</div>
+                    <div style="font-weight: bold; font-size: 20px; padding: 10px;">Email:: ${userProfile.email}</div>
                 </form>
             </div>
         </div>
